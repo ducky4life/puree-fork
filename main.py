@@ -40,7 +40,6 @@ update_length = int(region_nodes[-1].find("LASTUPDATE").text) - update_start
 log(f"Found update length: {update_length} seconds.", level="info")
 
 wfe_criteria = {
-    "[region]the brotherhood of malice[/region]": "BoM",
     "https://discord.gg/W24yF2aCKs": "TRA",
     "[region]Trans Republican Army[/region]": "TRA",
     "https://www.nationstates.net/region=trans_republican_army": "TRA",
