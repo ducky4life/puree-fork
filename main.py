@@ -54,6 +54,7 @@ offices_criteria = {
     "detag": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
     "d": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
     "TRA": "TRA",
+    "planet duke": "DUCKY :3",
 }
 
 ro_criteria = [
