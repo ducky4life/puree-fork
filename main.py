@@ -125,7 +125,9 @@ offices_criteria = {
     "praf": "TCB",
     "the eo": "TEO",
     "the silver dragon": "LotD",
-    "moth": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    "moth": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+    "detag": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+    "d": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
 }
 
 ro_criteria = [
