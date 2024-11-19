@@ -1,3 +1,12 @@
+# puree forked by ducky
+
+this is to find my detags and more detags for new raider orgs, for personal use, as well as my fenda friends. want me to find your detag? message me on discord
+
+changes: gemfile updated for newer dependacies, removed some files i dont need, and edited the filters
+
+original puree readme:
+
+
 # Purée
 
 [Purée](https://esfalsa.github.io/puree) is an easy-to-use website that flags NationStates regions which may have been tagged.
