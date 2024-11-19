@@ -125,6 +125,7 @@ offices_criteria = {
     "praf": "TCB",
     "the eo": "TEO",
     "the silver dragon": "LotD",
+    "moth": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 }
 
 ro_criteria = [
@@ -178,6 +179,7 @@ ro_criteria = [
     "a_crazy_person_\d+",
     "bcc_\d+",
     "chimoreian_imperial_legion_{roman_numeral_regex}",
+    "moth_legionary\d+",
 ]
 
 embassies_criteria = {
