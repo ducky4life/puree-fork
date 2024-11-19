@@ -49,9 +49,6 @@ roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
 # https://stackoverflow.com/a/267405
 
 offices_criteria = {
-    "moth": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
-    "detag": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
-    "d": "MOTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
     "TRA": "TRA",
     "planet duke": "DUCKY :3",
 }
