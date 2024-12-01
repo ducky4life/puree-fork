@@ -53,6 +53,7 @@ offices_criteria = {
     "TRA": "TRA",
     "planet duke": "DUCKY :3",
     "Ice Cream": "OSEEEEEEEEEEEEEEEEEEEEAO",
+    "{moth_regex}": "MOTHHHHHHHHHHHHHH",
 }
 
 ro_criteria = [
