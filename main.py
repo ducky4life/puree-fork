@@ -46,6 +46,7 @@ wfe_criteria = {
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
+moth_regex = ".*(?i)\bmoth\b.*"
 # https://stackoverflow.com/a/267405
 
 offices_criteria = {
