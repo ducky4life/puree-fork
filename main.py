@@ -43,6 +43,8 @@ wfe_criteria = {
     "https://discord.gg/W24yF2aCKs": "TRA",
     "[region]Trans Republican Army[/region]": "TRA",
     "https://www.nationstates.net/region=trans_republican_army": "TRA",
+    "Hana Macchia": "Hana Macchia",
+    "Megacity": "Hana Macchia",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -55,6 +57,9 @@ offices_criteria = {
     "Ice Cream": "OSEEEEEEEEEEEEEEEEEEEEAO",
     f"{moth_regex}": "MOTHHHHHHHHHHHHHH",
     "detagging moth": "MOTHHHHHHHHHHHHHH",
+    "GLASS": "Hana Macchia",
+    "CRYSTAL": "Hana Macchia",
+    "Love Live!": "Hana Macchia",
 }
 
 ro_criteria = [
@@ -64,6 +69,7 @@ ro_criteria = [
 
 embassies_criteria = {
     "Trans Republican Army": "TRA",
+    "Hana Macchia": "Hana Macchia",
 }
 
 
