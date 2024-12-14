@@ -53,10 +53,11 @@ moth_regex = ".*(?i)\bmoth\b.*"
 
 offices_criteria = {
     "TRA": "TRA",
-    "planet duke": "DUCKY :3",
-    "Ice Cream": "OSEEEEEEEEEEEEEEEEEEEEAO",
-    f"{moth_regex}": "MOTHHHHHHHHHHHHHH",
-    "detagging moth": "MOTHHHHHHHHHHHHHH",
+    "planet duke": "Ducky",
+    "tgw": "Ducky",
+    "Ice Cream": "Oseao",
+    f"{moth_regex}": "moth",
+    "detagging moth": "moth",
     "GLASS": "Hana Macchia",
     "CRYSTAL": "Hana Macchia",
     "Love Live!": "Hana Macchia",
