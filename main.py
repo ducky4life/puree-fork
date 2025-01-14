@@ -52,7 +52,7 @@ moth_regex = ".*(?i)\bmoth\b.*"
 # https://stackoverflow.com/a/267405
 
 offices_criteria = {
-    "TRA": "TRA",
+    "TRA": "the roblox army",
     "planet duke": "Ducky",
     "tgw": "Ducky",
     "Ice Cream": "Oseao",
@@ -69,7 +69,7 @@ ro_criteria = [
 ]
 
 embassies_criteria = {
-    "Trans Republican Army": "TRA",
+    "Trans Republican Army": "the roblox army",
     "Hana Macchia": "Hana Macchia",
 }
 
