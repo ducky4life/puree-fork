@@ -45,6 +45,7 @@ wfe_criteria = {
     "https://www.nationstates.net/region=trans_republican_army": "the roblox army",
     "Hana Macchia": "Hana Macchia",
     "Megacity": "Hana Macchia",
+    "[region]Purple Pony Club[/region]": "PPC",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -71,6 +72,7 @@ ro_criteria = [
 embassies_criteria = {
     "Trans Republican Army": "the roblox army",
     "Hana Macchia": "Hana Macchia",
+    "Purple Pony Club": "PPC",
 }
 
 
