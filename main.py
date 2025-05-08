@@ -46,7 +46,7 @@ wfe_criteria = {
     "Hana Macchia": "Hana Macchia",
     "Megacity": "Hana Macchia",
     "Megacity of Fujishima": "Hana Macchia",
-    "Mégapole de Fujishima": "Hana Macchia"
+    "Mégapole de Fujishima": "Hana Macchia",
     "[region]Purple Pony Club[/region]": "PPC",
 }
 
