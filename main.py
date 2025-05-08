@@ -45,6 +45,8 @@ wfe_criteria = {
     "https://www.nationstates.net/region=trans_republican_army": "the roblox army",
     "Hana Macchia": "Hana Macchia",
     "Megacity": "Hana Macchia",
+    "Megacity of Fujishima": "Hana Macchia",
+    "Mégapole de Fujishima": "Hana Macchia"
     "[region]Purple Pony Club[/region]": "PPC",
 }
 
