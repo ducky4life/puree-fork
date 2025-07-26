@@ -40,9 +40,9 @@ update_length = int(region_nodes[-1].find("LASTUPDATE").text) - update_start
 log(f"Found update length: {update_length} seconds.", level="info")
 
 wfe_criteria = {
-    "https://discord.gg/W24yF2aCKs": "the roblox army",
-    "[region]Trans Republican Army[/region]": "the roblox army",
-    "https://www.nationstates.net/region=trans_republican_army": "the roblox army",
+    "https://discord.gg/W24yF2aCKs": "Trans Republican Army",
+    "[region]Trans Republican Army[/region]": "Trans Republican Army",
+    "https://www.nationstates.net/region=trans_republican_army": "Trans Republican Army",
     "Hana Macchia": "Hana Macchia",
     "Megacity": "Hana Macchia",
     "Megacity of Fujishima": "Hana Macchia",
@@ -55,7 +55,7 @@ moth_regex = ".*(?i)\bmoth\b.*"
 # https://stackoverflow.com/a/267405
 
 offices_criteria = {
-    "TRA": "the roblox army",
+    "TRA": "Trans Republican Army",
     "planet duke": "Ducky",
     "tgw": "Ducky",
     "Ice Cream": "Oseao",
@@ -72,7 +72,7 @@ ro_criteria = [
 ]
 
 embassies_criteria = {
-    "Trans Republican Army": "the roblox army",
+    "Trans Republican Army": "Trans Republican Army",
     "Hana Macchia": "Hana Macchia",
     "Purple Pony Club": "PPC",
 }
